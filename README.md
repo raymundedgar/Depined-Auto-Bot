@@ -20,7 +20,7 @@ Depined Auto Bot
 
 3. **Submit Access Code**: Use the access code: `0K5DMr0QMv85`
 
-4. **Download the Extension**: Install the Depined extension from the Chrome Web Store:  
+4. **Download the Extension**: Install the Depined extension from the Chrome Web Store:
    [Depined Extension on Chrome Web Store](https://chromewebstore.google.com/detail/depined/pjlappmodaidbdjhmhifbnnmmkkicjoc)
 
 5. **Run for 10 Hours**: To activate your referral code, you need to run the extension for 10 hours.
@@ -42,7 +42,7 @@ Ensure you have the following installed:
 1. Clone this repository
 
 ```bash
-git clone https://github.com/airdropinsiders/Depined-Auto-Bot.git
+git clone https://github.com/raymundedgar/Depined-Auto-Bot.git
 cd Depined-Auto-Bot
 ```
 2. Install dependencies
